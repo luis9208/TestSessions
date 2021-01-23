@@ -1,0 +1,2 @@
+# TestSessions
+Django test sessions 
